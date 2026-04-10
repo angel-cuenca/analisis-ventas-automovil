@@ -1,4 +1,4 @@
-# Análisis Estratégico de Ventas y Segmentación de Clientes - Sector Automóvil 🚗📊
+# Análisis Estratégico de Ventas y Clientes | Sector Automóvil
 
 Este proyecto presenta un análisis integral de los datos transaccionales de una compañía del sector automotriz. El flujo de trabajo abarca desde la limpieza de datos y el Análisis Exploratorio (EDA) hasta técnicas avanzadas de segmentación de clientes (RFM) y validación estadística (ANOVA), transformando datos brutos en insights accionables para la toma de decisiones.
 
