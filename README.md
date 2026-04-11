@@ -60,5 +60,5 @@ El objetivo es optimizar la estrategia comercial mediante el entendimiento profu
 ---
 
 ## 📧 Contacto
-Analista de Datos | Ángel Cuenca Gómez
+Ángel Cuenca Gómez | Analista de Datos
 www.linkedin.com/in/ángel-cuenca-gómez | angelcuencagomez@gmail.com
