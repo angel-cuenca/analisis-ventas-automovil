@@ -28,7 +28,7 @@ El objetivo es optimizar la estrategia comercial mediante el entendimiento profu
 
 ## 📁 Estructura del Repositorio
 * `data/`: Datasets originales (raw) y procesados.
-* `notebooks/`: Jupyter Notebook con el flujo completo de Ciencia de Datos.
+* `notebooks/`: Jupyter Notebook con el flujo completo de ciencia de datos.
 * `dashboard/`: Archivo fuente del dashboard y capturas de pantalla.
 
 ---
